@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-2\\Pictures\\Hristos\\Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C552497D-ADFF-43DE-8142-4C2AA050D28E}|ZadLists\\ZadLists.csproj|c:\\users\\1212-2\\pictures\\hristos\\lists\\zadlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552497D-ADFF-43DE-8142-4C2AA050D28E}|ZadLists\\ZadLists.csproj|solutionrelative:zadlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Pictures\\Hristos\\Lists\\ZadLists\\Program.cs",
+              "RelativeDocumentMoniker": "ZadLists\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Pictures\\Hristos\\Lists\\ZadLists\\Program.cs",
+              "RelativeToolTip": "ZadLists\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:15:04.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\bin\Debug\net8.0\ZadLists.exe
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\bin\Debug\net8.0\ZadLists.deps.json
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\bin\Debug\net8.0\ZadLists.runtimeconfig.json
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\bin\Debug\net8.0\ZadLists.dll
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\bin\Debug\net8.0\ZadLists.pdb
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.AssemblyInfoInputs.cache
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.AssemblyInfo.cs
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.csproj.CoreCompileInputs.cache
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.dll
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\refint\ZadLists.dll
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.pdb
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ZadLists.genruntimeconfig.cache
+C:\Users\1212-2\Pictures\Hristos\Lists\ZadLists\obj\Debug\net8.0\ref\ZadLists.dll
